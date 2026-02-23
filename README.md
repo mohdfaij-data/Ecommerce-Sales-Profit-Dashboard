@@ -1,5 +1,9 @@
 # 📊 E-Commerce Sales & Profit Performance Dashboard
 
+![Dashboard Preview](E-commerce Dashboard.png)
+
+---
+
 ## 📌 Project Overview
 End-to-end Business Intelligence project analyzing sales performance, profitability drivers, and discount impact in an e-commerce business.
 
@@ -33,5 +37,46 @@ Data was cleaned using Python (Pandas) and transformed into an interactive Power
 
 ---
 
-## 📷 Dashboard Preview
-(Screenshot added below)
+## 🧠 DAX Measures (KPI Engine)
+
+```DAX
+Total Sales = SUM(Sales[Sales Amount])
+
+Total Profit = SUM(Sales[Profit])
+
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Sales], 0)
+
+Total Orders = COUNT(Sales[Order ID])
+```
+
+---
+
+## 📂 Repository Contents
+
+📊 E-commerce_Project.pbix — Power BI dashboard file  
+🖼 E-commerce Dashboard.png — Dashboard preview image  
+📄 dataset.xlsx — Cleaned dataset  
+📘 README.md — Project documentation  
+
+---
+
+## 🚀 Future Enhancements
+
+Planned improvements:
+
+⭐ Customer Segmentation Analysis  
+📅 Year-over-Year Growth Analysis  
+📈 Advanced KPI Trend Analysis  
+⚡ Automated Data Refresh Integration  
+
+---
+
+## 👤 Author
+
+Mohd Faij  
+Aspiring Data Analyst | Power BI | Python | Excel  
+
+🔗 GitHub: https://github.com/mohdfaij-data  
+🔗 LinkedIn: https://www.linkedin.com/in/mohd-faij  
+
