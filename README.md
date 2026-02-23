@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales & Profit Performance Dashboard
 
-![Dashboard Preview](E-commerce Dashboard.png)
+![Dashboard Preview](https://github.com/mohdfaij-data/Ecommerce-Sales-Profit-Dashboard/blob/main/E-commerce%20Dashboard.png)
 
 ---
 
