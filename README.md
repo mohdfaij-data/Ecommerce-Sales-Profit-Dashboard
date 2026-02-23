@@ -48,7 +48,7 @@ Profit Margin % =
 DIVIDE([Total Profit], [Total Sales], 0)
 
 Total Orders = COUNT(Sales[Order ID])
-```
+
 
 ---
 
@@ -78,5 +78,5 @@ Mohd Faij
 Aspiring Data Analyst | Power BI | Python | Excel  
 
 🔗 GitHub: https://github.com/mohdfaij-data  
-🔗 LinkedIn: https://www.linkedin.com/in/mohd-faij  
+🔗 LinkedIn: https://www.linkedin.com/in/mohd-faij ```
 
